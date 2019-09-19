@@ -5,6 +5,7 @@ This Script will do followong stuffs on your RHEL 8 Box
 2. Install JDK 
 3. Install wget
 4. Install Jenkins
+5. Install GIT 
 
 
 More packages will be added soon
